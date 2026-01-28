@@ -39,5 +39,5 @@ biocViews: Software, Visualization, ChIPSeq, ATACSeq, Epigenetics,
     DataRepresentation, Sequencing
 VignetteBuilder: knitr
 Depends: 
-    R (>= 4.5.0)
+    R (>= 4.4.0)
 LazyData: false
